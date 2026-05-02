@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+faster-whisper
+deep-translator
+gtts
+jinja2
+python-multipart
